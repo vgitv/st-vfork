@@ -11,7 +11,7 @@ This is a fork of st, see [https://st.suckless.org/](https://st.suckless.org/) f
 ## Personal changes
 
 * Reorder all project files along with new Makefile ;
-* `MODKEY` is set to `Mod4Mask` to avoid conflicts with my dwm setup ;
+* `MODKEY` is set to `Mod1Mask` to avoid conflicts with my dwm setup ;
 * miscellaneous key bidings to be more vim-friendly ;
 * font and colors.
 
